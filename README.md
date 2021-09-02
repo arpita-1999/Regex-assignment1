@@ -11,4 +11,4 @@ Task_3: Computing Operations with Functions
 Task_4: Exploratory Data Analysis (Using zomato dataset)
 
 ## Regex-assignment5
-Task_4: Function implementation on lists
+Task_5: Function implementation on lists
