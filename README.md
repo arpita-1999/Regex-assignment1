@@ -12,3 +12,6 @@ Task_4: Exploratory Data Analysis (Using zomato dataset)
 
 ## Regex-assignment5
 Task_5: Function implementation on lists
+
+## Regex-assignment8
+Task_8: Heart Attack Analysis & Prediction
